@@ -2,3 +2,4 @@ new words
 new words again
 need to be merged to master
 dev branch new line
+master new line
